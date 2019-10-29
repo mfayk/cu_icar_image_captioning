@@ -1,4 +1,4 @@
-# cu_icar_project
+# cu_icar_image_captioning
 
 sources:
 
